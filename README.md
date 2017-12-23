@@ -32,5 +32,5 @@ The batch files are configured to incorporate visualization.The batches can be r
 and setting program parameter
 	--visualize=false
 
-For any questions, please contact dave@infoblazer.com
+
 
